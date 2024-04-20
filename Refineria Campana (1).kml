@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Refineria Campana</name>
+	<gx:CascadingStyle kml:id="__managed_style_27349B4C0F302E4E3AE5">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4.8</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_1B373DDF26302E4E3AE5">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3.2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0D9AA93A01302E4E3AE5">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1B373DDF26302E4E3AE5</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_27349B4C0F302E4E3AE5</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="0A23BA5DA0302E49057E">
+		<name>Refineria Campana</name>
+		<styleUrl>#__managed_style_0D9AA93A01302E4E3AE5</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>-58.953797,-34.15548,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="004567C3B5302E4EEEF7">
+		<name>Rosario Sur</name>
+		<description><![CDATA[<div>Rosario Sur<br></div>]]></description>
+		<styleUrl>#__managed_style_0D9AA93A01302E4E3AE5</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>-60.665179,-33.009199,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="020950DCEB302E513ABE">
+		<name>El Boulevard</name>
+		<description><![CDATA[<div>El Boulevard<br></div>]]></description>
+		<styleUrl>#__managed_style_0D9AA93A01302E4E3AE5</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>-60.68220900000001,-32.949706,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0414B949BD302E5236CD">
+		<name>Florencio Varela</name>
+		<description><![CDATA[<div>Florencio Varela<br></div>]]></description>
+		<styleUrl>#__managed_style_0D9AA93A01302E4E3AE5</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>-60.738403,-32.928647,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="037D15FA53302E52F4A6">
+		<name>Laferrere</name>
+		<description><![CDATA[<div>Laferrere<br></div>]]></description>
+		<styleUrl>#__managed_style_0D9AA93A01302E4E3AE5</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>-60.639957,-32.960907,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0458494C64302E538205">
+		<name>Rivadavia</name>
+		<description><![CDATA[<div>Rivadavia<br></div>]]></description>
+		<styleUrl>#__managed_style_0D9AA93A01302E4E3AE5</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>-60.661176,-32.942132,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0D17D85277302E541C89">
+		<name>Santa Rita</name>
+		<description><![CDATA[<div>Santa Rita<br></div>]]></description>
+		<styleUrl>#__managed_style_0D9AA93A01302E4E3AE5</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>-60.65914799999999,-31.641348,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>
